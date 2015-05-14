@@ -1,4 +1,3 @@
 # repoirma
 kodingan fp alpro 1
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+![nyoba ](C:\Users\SONY\Downloads\foto\Danau-Ranu-Kumbolo-300x200.jpg)
